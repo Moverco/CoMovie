@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CoMovie</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="movie_title">Movie</string>
+    <string name="me">Me</string>
+    <string name="refresh">Refresh</string>
+    <string name="order_by_popular">Order by Popular</string>
+    <string name="order_by_rate">Order by Rate</string>
+</resources>

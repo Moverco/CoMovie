@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/refresh"
+        android:icon="@drawable/refresh_32"
+        android:title="@string/refresh"/>
+    <item
+        android:id="@+id/order_by_popular"
+        android:icon="@drawable/order_by_popular_32"
+        android:title="@string/order_by_popular"/>
+    <item
+        android:id="@+id/order_by_rate"
+        android:icon="@drawable/order_by_rate_32"
+        android:title="@string/order_by_rate"/>
+</menu>
